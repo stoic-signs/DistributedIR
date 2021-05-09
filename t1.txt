@@ -1,0 +1,6 @@
+Why is there no SortedList in Java? SortedList
+https://stackoverflow.com/questions/8725387/why-is-there-no-sortedlist-in-java
+Highlight exception throwers in IntelliJ IDEA idea idea idea
+https://stackoverflow.com/questions/7773670/highlight-exception-throwers-in-intellij-idea
+Unit testing a class with a Java 8 Clock
+https://stackoverflow.com/questions/27067049/unit-testing-a-class-with-a-java-8-clock
